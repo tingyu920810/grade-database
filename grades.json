@@ -1,3 +1,10 @@
 {
-  "students": []
+  "students": [
+    {
+      "name": "123",
+      "id": "10001",
+      "score": 100,
+      "week": 1
+    }
+  ]
 }
