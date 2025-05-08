@@ -1,10 +1,13 @@
 {
   "students": [
     {
-      "name": "123",
-      "id": "10001",
-      "score": 100,
-      "week": 1
+      "id": "S001",
+      "name": "小明",
+      "password": "123456",
+      "grades": [
+        { "week": 1, "score": 85 },
+        { "week": 2, "score": 90 }
+      ]
     }
   ]
 }
