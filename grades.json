@@ -8,6 +8,25 @@
         { "week": 1, "score": 85 },
         { "week": 2, "score": 90 }
       ]
+    },
+    {
+      "id": "S002",
+      "name": "小華",
+      "password": "abc123",
+      "grades": [
+        { "week": 1, "score": 70 },
+        { "week": 2, "score": 75 },
+        { "week": 3, "score": 72 }
+      ]
+    },
+    {
+      "id": "S003",
+      "name": "小美",
+      "password": "pw888",
+      "grades": [
+        { "week": 1, "score": 92 },
+        { "week": 2, "score": 95 }
+      ]
     }
   ]
 }
