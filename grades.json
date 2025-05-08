@@ -2,7 +2,7 @@
   "students": [
     {
       "id": "S001",
-      "name": "??",
+      "name": "A",
       "password": "123456",
       "grades": [
         {
@@ -21,7 +21,7 @@
     },
     {
       "id": "S002",
-      "name": "??",
+      "name": "B",
       "password": "abc123",
       "grades": [
         {
@@ -40,7 +40,7 @@
     },
     {
       "id": "S003",
-      "name": "??",
+      "name": "C",
       "password": "pw888",
       "grades": [
         {
