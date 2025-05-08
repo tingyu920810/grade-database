@@ -2,30 +2,55 @@
   "students": [
     {
       "id": "S001",
-      "name": "小明",
+      "name": "??",
       "password": "123456",
       "grades": [
-        { "week": 1, "score": 85 },
-        { "week": 2, "score": 90 }
+        {
+          "week": 1,
+          "score": 85
+        },
+        {
+          "week": 2,
+          "score": 90
+        },
+        {
+          "week": 3,
+          "score": 100
+        }
       ]
     },
     {
       "id": "S002",
-      "name": "小華",
+      "name": "??",
       "password": "abc123",
       "grades": [
-        { "week": 1, "score": 70 },
-        { "week": 2, "score": 75 },
-        { "week": 3, "score": 72 }
+        {
+          "week": 1,
+          "score": 70
+        },
+        {
+          "week": 2,
+          "score": 75
+        },
+        {
+          "week": 3,
+          "score": 72
+        }
       ]
     },
     {
       "id": "S003",
-      "name": "小美",
+      "name": "??",
       "password": "pw888",
       "grades": [
-        { "week": 1, "score": 92 },
-        { "week": 2, "score": 95 }
+        {
+          "week": 1,
+          "score": 92
+        },
+        {
+          "week": 2,
+          "score": 95
+        }
       ]
     }
   ]
